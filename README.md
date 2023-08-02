@@ -5,7 +5,7 @@ Instructions:
 - Navigate the map with North, South, East and West links
 - Look for in-game events, which will play out in real time. Once the event is complete, you can click "Record" (if you have enough memory)
 - Events only play once, so if you walk away from one before recording, it's gone forever!
-- Think fast! You're on a timer!
+- Think fast! You're on a timer! Sections of the map will become unavailable over time, starting from the very top.
 - Click "Log out" when you're done, and admire the record you've created of your favourite game
 
 Click here to play: **link here**
