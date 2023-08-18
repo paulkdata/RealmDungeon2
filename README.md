@@ -8,7 +8,7 @@ Instructions:
 - Think fast! You're on a timer! Sections of the map will become unavailable over time, starting from the very top.
 - Click "Log out" when you're done, and admire the record you've created of your favourite game
 
-Click here to play: **[Play RealmDungeon 2](https://paulkdata.github.io/RealmDungeon2/)**
+Click here to play: **[Play RealmDungeon 2](https://paulkking.github.io/RealmDungeon2/)**
 
 **Note the timer will start immediately after clicking the link!**
 <br/>
